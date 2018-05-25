@@ -81,6 +81,3 @@ p {
 .card img {
   padding-top: 40px;
 }
-* {
-  box-sizing: border-box;
-}
